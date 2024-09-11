@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8695a47-9468-414c-85da-da20d6399bfc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/builder/StockDataBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/composite/HighStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/composite/LowStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/composite/StockComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/factory/StockDataFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/interpreter/StockInterpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/model/StockData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/service/OrderManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/singleton/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/strategy/BuyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/strategy/PricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/util/CsvReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stockexchange/util/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/Sstock_exchange_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/Stock_Model - Sheet6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/stockexchange/OrderManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/stockexchange/StockDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/stockexchange/StockInterpreterTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2lf6LmWeVDHgHSHEzkyBkhnIu2T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.StockExchangeApp.executor": "Run",
+    "JUnit.AppTest.testSomething.executor": "Run",
+    "JUnit.OrderManagerTest.testPlaceOrder.executor": "Run",
+    "JUnit.StockDataTest.executor": "Run",
+    "JUnit.StockDataTest.testCalculateMarketShare.executor": "Run",
+    "JUnit.StockExchangeTest.executor": "Run",
+    "JUnit.StockExchangeTest.testCSVReading.executor": "Run",
+    "JUnit.StockInterpreterTest.testParseCsv.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/alak/IdeaProjects/IRIs Project/src/main/java/com/stockexchange"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="Alak" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.stockexchange in IRISProject">
+    <configuration name="OrderManagerTest.testPlaceOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IRISProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stockexchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stockexchange" />
+      <option name="MAIN_CLASS_NAME" value="com.stockexchange.OrderManagerTest" />
+      <option name="METHOD_NAME" value="testPlaceOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IRISProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stockexchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stockexchange" />
+      <option name="MAIN_CLASS_NAME" value="com.stockexchange.StockDataTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockDataTest.testCalculateMarketShare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IRISProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stockexchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stockexchange" />
+      <option name="MAIN_CLASS_NAME" value="com.stockexchange.StockDataTest" />
+      <option name="METHOD_NAME" value="testCalculateMarketShare" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockInterpreterTest.testParseCsv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IRISProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stockexchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stockexchange" />
+      <option name="MAIN_CLASS_NAME" value="com.stockexchange.StockInterpreterTest" />
+      <option name="METHOD_NAME" value="testParseCsv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stockexchange in IRISProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IRISProject" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/com/stockexchange" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.stockexchange in IRISProject" />
+        <item itemvalue="JUnit.OrderManagerTest.testPlaceOrder" />
+        <item itemvalue="JUnit.StockDataTest" />
+        <item itemvalue="JUnit.StockInterpreterTest.testParseCsv" />
+        <item itemvalue="JUnit.StockDataTest.testCalculateMarketShare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8695a47-9468-414c-85da-da20d6399bfc" name="Changes" comment="" />
+      <created>1725558734658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725558734658</updated>
+    </task>
+    <servers />
+  </component>
+</project>
